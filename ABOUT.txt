@@ -1,0 +1,11 @@
+ULTRASOUND COLLECTION — PUBLIC VIEWING COPY
+
+This collection contains 158 ultrasound stills, 35 complete cine clips, and two informational cards for worksheets kept offline. Three studies are presented without examination dates.
+
+Identifying headers are permanently covered in the image pixels and every video frame. Personal names, dates, record identifiers, facility/operator headers, calculated dating/measurement panels, and a sex-related text annotation have been removed. The two demographic-heavy worksheets, original clinical reports, DICOM metadata, source identifiers, original checksums, access links, and credentials are not included. Public descriptions omit exact patient-specific measurement values.
+
+This is a viewing copy. Videos are re-encoded as H.264 MP4 at their original frame counts, dimensions, and playback rates; stills are freshly encoded JPEGs. Privacy masks obscure parts of the original images. The original full-resolution archive and reports remain offline.
+
+Each image and clip has an AI-added title and plain-language description. The descriptions use visible source labels and appearance, with uncertainty where applicable. Every still and sampled frames from every clip were visually reviewed. Descriptions are a viewing guide, not a medical interpretation or assessment of normality. The original clinician's report remains the clinical reference.
+
+The site contains no analytics, advertising, external fonts, or automatic calls to a hospital service. Optional medical-reference links open separately without a referrer. The site asks search engines not to index it; this is a request, not access control. Anyone with the public URL can view or copy this collection, and its hosting account can identify the owner.

@@ -1,0 +1,20 @@
+PUBLIC RELEASE CHECKS — PASSED
+
+Collection: 3 studies; 195 catalog entries.
+Media: 158 visible stills, 35 complete cine clips, and 2 generated worksheet cards.
+Assets: 195 JPEG files and 35 H.264 MP4 files, with 5,309 cine frames.
+
+Validated:
+- Strict public-data schemas and file allowlist; all catalog media paths exist.
+- Every original image/clip is accounted for; the two original worksheets are withheld.
+- Media paths, frame counts, frame rates, dimensions, and withheld status match the completed redaction build.
+- JPEG files contain only standard JFIF headers, with no EXIF/XMP/IPTC metadata, comments, or embedded thumbnails.
+- Every encoded video frame passed the opaque identifying-header check; clips have no audio streams.
+- Local OCR scanned all 5,467 non-withheld source frames after masking. Higher-accuracy OCR checked 333 frames. All flags were reviewed, with no confirmed residual identifying text.
+- The public text contains no detected original identifiers, examination dates, hospital access URLs, original checksums, or private filesystem paths.
+- No original reports, DICOM metadata, credentials, source mapping, or private audit files are included.
+- The viewer uses local assets and makes no automatic hospital, analytics, or third-party data requests. Medical reference links are optional.
+
+Limits:
+These checks reduce disclosure risk; OCR and visual review cannot prove complete anonymity. Clinical image content remains visible, and the public hosting account may identify the owner. Anyone with the public URL can view or copy the collection. Search-engine exclusion is a request, not access control.
+The JPEG and MP4 files are masked, re-encoded viewing copies. The source archive and clinical reports remain offline. AI-added descriptions are explanatory viewing aids, not clinical interpretations.
